@@ -14,6 +14,7 @@ git branch
 git branch dev
 # 创建dev分支但不切换
 ```
+# 添加一些新东西
 
 2. 分支合并
 
